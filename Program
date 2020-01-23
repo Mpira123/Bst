@@ -19,7 +19,7 @@ namespace TreeExample
             tree.Add(53);
             tree.Add(14);
             tree.Add(9);
-            Console.WriteLine(tree);
+            Console.WriteLine(100);
         }
     }    
 }
